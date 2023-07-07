@@ -65,7 +65,7 @@
     margin: 0 0.5em;
 }
 
-.botoes_ancora {
+.botoes__ancora {
     background-color: var(--laranja);
     padding: 1em 2.2em;
     text-decoration: none;
